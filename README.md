@@ -79,7 +79,7 @@ No API key is required for basic usage.
 
 🙋‍♀ About Me
 
-I’m a student learning full-stack development and building real-world projects to improve my skills.
+I’m a student learning frontened-development and building real-world projects to improve my skills.
 This project helped me explore API integration, React hooks, Tailwind styling, and responsive design.
 
 
